@@ -32,3 +32,5 @@ export const ListItem = styled.li`
   gap: 50px;
 `;
 
+ export const NumberSpan = styled.span`
+ color: black;`
